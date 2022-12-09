@@ -16,6 +16,7 @@ I denna slutexamination ska du skapa en sida åt det fiktiva företaget **DE-VE-
 * Att du använder Firebase.
 * Sidan fungerar med inga fel i konsolen i developer tools.
 * Vettiga namn på variabler etc på engelska.
+* Att den är "deployad" på Firebase och åtkomlig via en url.
 
 ### Väl godkänt
 * Allt i godkänt.
