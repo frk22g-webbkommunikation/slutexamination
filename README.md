@@ -20,6 +20,7 @@ I denna slutexamination ska du skapa en sida åt det fiktiva företaget **DE-VE-
 ### Väl godkänt
 * Allt i godkänt.
 * Att din kod är uppdelad i moduler där du har skrivit en kommentar i varje modul om varför du har delat upp som du gjort.
+* Att det går att söka efter en specifik film via ett inputfält på titel.
 
 ## Inlämning
 Inlämning sker senast Fredag 16 dec 23.59 via en länk till ditt githubrepo på Learnpoint och länk till ditt projekt (som slutar med `firebaseapp.com` eller `web.app`).
